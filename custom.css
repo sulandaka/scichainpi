@@ -1,0 +1,17 @@
+/* Custom CSS to move summary to the right */
+.grid-view .summary {
+    text-align: right;
+    float: right;
+    color: rgb(33 37 41 / 75%);
+}
+
+.stat {
+    align-items: center;
+    background: #e0eafc;
+    border-radius: 50%;
+    display: flex;
+    height: 48px;
+    justify-content: center;
+    padding: .75rem;
+    width: 48px;
+}
