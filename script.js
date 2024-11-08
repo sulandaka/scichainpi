@@ -1,1 +1,1 @@
-console.log("Aplikasi Web Saya Berjalan!");
+console.log("My app running");
